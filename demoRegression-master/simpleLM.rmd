@@ -54,7 +54,7 @@ summary(lmWeight)
 
 ```{r}
 lmHeadLen = lm(LENGTH ~ HEADLEN, data = bears)
-summary(lmHeadLen)
+summary(lmHeadLen)    
 ```
 
 ```{r}
