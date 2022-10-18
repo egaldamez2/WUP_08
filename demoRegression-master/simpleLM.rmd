@@ -44,7 +44,7 @@ predict(simp,new,se.fit=TRUE)
 
 ```{r}
  lmNeck = lm(LENGTH ~ NECK, data = bears)
-summary(lmNeck)
+summary(lmNeck)    
 ```
 
 ```{r}
