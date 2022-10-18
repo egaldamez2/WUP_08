@@ -68,3 +68,11 @@ summary(lmHeadwth)
 ```
 
 
+
+1. Length and head length 
+2. Length and neck
+3. Length and chest 
+4. Length and weight 
+5. Length and head width 
+6. Length and Age 
+ 
